@@ -1,5 +1,5 @@
 export class Utils {
-    constructor() {
+    hello() {
         console.log("Hello world!")
     }
 }
