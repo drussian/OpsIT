@@ -1,0 +1,19 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "Common scripts for use in our admin dashboards",
+  "author": "Daniel Russian <daniel.russian@mercadolibre.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
