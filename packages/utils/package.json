@@ -1,9 +1,9 @@
 {
-  "name": "utils",
+  "name": "@opsit/utils",
   "version": "0.0.1",
-  "description": "Common scripts for use in our admin dashboards",
+  "description": "Common script for admin projects",
   "author": "Daniel Russian <daniel.russian@mercadolibre.com>",
-  "homepage": "",
+  "homepage": "https://github.com/drussian/OpsIT#readme",
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
@@ -13,7 +13,15 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drussian/OpsIT.git"
+  },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/drussian/OpsIT/issues"
   }
 }
