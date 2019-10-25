@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/drussian/OpsIT/issues"
   },
-  "gitHead": "13cbe6d87ccb3a373a70f2cdf4eeb916001e9a11"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "329d602001c5f8473e590e7642ead5d5026785b2"
 }
